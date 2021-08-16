@@ -1,2 +1,2 @@
 # Roest
-## Domain Driven Development microservices framework.
+## DDD Microservices framework
